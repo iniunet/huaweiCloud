@@ -7,8 +7,8 @@
         <mxCell id="djTARG122TU326mFLAmz-1" value="IDC" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
           <mxGeometry x="78" y="78" width="231" height="231" as="geometry" />
         </mxCell>
-        <mxCell id="zQtq6aXo6npVZJ5Fd0N6-3" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="291" y="28" width="518" height="371" as="geometry" />
+        <mxCell id="zQtq6aXo6npVZJ5Fd0N6-3" value="huaweiCloud" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="291" y="28" width="494" height="371" as="geometry" />
         </mxCell>
         <mxCell id="zQtq6aXo6npVZJ5Fd0N6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4OX1mIO0yJQR4AisKcEK-1" target="zQtq6aXo6npVZJ5Fd0N6-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -24,7 +24,7 @@
         <mxCell id="7QAW6A37wqM5UHGuv0Ta-1" value="SysBench&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="135" y="132" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zQtq6aXo6npVZJ5Fd0N6-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zQtq6aXo6npVZJ5Fd0N6-1" target="zQtq6aXo6npVZJ5Fd0N6-4" edge="1">
+        <mxCell id="djTARG122TU326mFLAmz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zQtq6aXo6npVZJ5Fd0N6-1" target="zQtq6aXo6npVZJ5Fd0N6-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zQtq6aXo6npVZJ5Fd0N6-1" value="DRS" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
