@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.10">
+  <diagram name="第 1 页" id="hJpSnubh3NwP1bZo-vac">
+    <mxGraphModel dx="816" dy="433" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4OX1mIO0yJQR4AisKcEK-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MySQL_Server.svg;" parent="1" vertex="1">
+          <mxGeometry x="241" y="207" width="48" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="7QAW6A37wqM5UHGuv0Ta-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7QAW6A37wqM5UHGuv0Ta-1" target="4OX1mIO0yJQR4AisKcEK-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7QAW6A37wqM5UHGuv0Ta-1" value="SysBench&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="199" width="60" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
